@@ -18,9 +18,9 @@
   "engine": "node >= 0.10",
   "description": "WordPress HTML5 template",
   "main": "gruntfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  // "scripts": {
+  //   "test": "echo \"Error: no test specified\" && exit 1"
+  // },
   "author": "bwclovis (bwclovis@gmail.com)",
   "license": "ISC"
 }
